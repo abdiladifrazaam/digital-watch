@@ -1,0 +1,27 @@
+body{
+        margin: 0;
+    background-image: url(https://halqabsi.com/wp-content/uploads/2024/01/Mogadishu.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    }
+#watch{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+#clock{
+  font-family: monospace serif;
+  font-size: 7em;
+ align-items: center;
+ text-align: center;
+ font-weight: bold;
+ color: white;
+ backdrop-filter: blur(10px);
+ background-color: hsl(0, 0%, 100%,0.1%);
+ width: 50%;
+
+}
